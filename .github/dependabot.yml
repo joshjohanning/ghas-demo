@@ -12,8 +12,8 @@ updates:
     labels:
       - "triage-required"
     assignees:
-      - "soccerjoshj07"
+      - "joshjohanning"
     reviewers:
-      - "soccerjoshj07"
+      - "joshjohanning"
     commit-message:
       prefix: "pip"
