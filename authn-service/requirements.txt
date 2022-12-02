@@ -1,6 +1,6 @@
 asn1crypto==0.24.0
 certifi==2020.6.20
-chardet==3.0.4
+chardet==5.1.0
 click==7.1.2
 cryptography==2.6.1
 entrypoints==0.3
