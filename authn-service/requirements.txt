@@ -15,7 +15,7 @@ MarkupSafe==1.1.1
 pycrypto==2.6.1
 PyGObject==3.30.4
 PyJWT==1.7.1
-python-dotenv==0.15.0
+python-dotenv==0.21.1
 pyxdg==0.25
 requests==2.24.0
 SecretStorage==2.3.1
