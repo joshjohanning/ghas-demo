@@ -14,6 +14,7 @@
     "core-js": "^3.6.5",
     "less": "^3.12.2",
     "less-loader": "^7.0.2",
+    "swiper": "6.5.0",
     "uikit": "^3.5.9",
     "vue": "2.5.13",
     "vue-instantsearch": "2.7.0",
